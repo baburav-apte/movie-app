@@ -1,0 +1,15 @@
+.card{
+  float: left;
+  margin-top: 2rem;
+  margin-left: 5rem;
+  max-width: 350px;
+  min-width: 350px;
+  border: 2px solid black;
+  border-radius: 1px;
+  gap: 5rem;
+}
+
+.card img{
+  min-width: 100%;
+  aspect-ratio: 1;
+}

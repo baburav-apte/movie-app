@@ -1,0 +1,10 @@
+footer {
+  align-items: center;
+  border: 5px solid #000;
+  width: 90%;
+  padding-left: 5rem;
+  position: fixed;
+  bottom: 5rem;
+  background-color: gray;
+  opacity: 0.6;
+}
